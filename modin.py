@@ -1,7 +1,7 @@
 import os
 import time
 import pdfplumber
-import modin.pandas as pd
+# import modin.pandas as pd
 # from langchain.document_loaders.base import Document
 from langchain.chains import RetrievalQA
 from langchain.text_splitter import CharacterTextSplitter
