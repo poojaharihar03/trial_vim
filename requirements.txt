@@ -1,0 +1,7 @@
+langchain 
+huggingface_hub 
+pdfplumber 
+faiss-cpu 
+sentence_transformers 
+openai 
+tiktoken
